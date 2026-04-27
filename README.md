@@ -1,5 +1,7 @@
 # 🧠 RNN-Based Text Classification (AG News Dataset)
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
+
 This project builds and compares multiple RNN-based deep learning models for classifying news articles into categories using the AG News dataset.
 
 ## 📌 Problem Statement
